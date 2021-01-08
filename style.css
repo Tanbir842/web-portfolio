@@ -1,0 +1,60 @@
+body{font-family: 'Do Hyeon', sans-serif;
+    font-family: 'Goldman', cursive;
+    font-family: 'Roboto', sans-serif;}
+.name {color:orange}
+>big{font-size: 70px;}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half img{
+    width: 100%;
+}
+.banar{
+    background-image: url("C:\web\project\complete-web-development-bangla-resources\developer-portfolio/top-banner.png");
+}
+.button{text-decoration: none;
+    background-image: linear-gradient(lightsalmon, tomato);
+    padding:10px 20px;
+    border-radius: 10px;
+    color:white;
+    font-weight: 700;
+
+}
+.button1{text-decoration: none;
+    background-image: linear-gradient(rgb(122, 124, 255), tomato);
+    padding:10px 20px;
+    border-radius: 10px;
+    color:white;
+    font-weight: 700;
+
+}
+
+h1{fornt-size:50px;}
+h2{font-size:40px;}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+    }
+    p {color:dimgray;}
+.dram{background-image:url("C:\web\project\complete-web-development-bangla-resources\developer-portfolio/dream-bg.png")
+background-repeat:no-repeat;
+background-position:right}
+.single{box-shadow: 10px 10px 40px gray;
+border-radius: 10px;
+height: 70%;}
+.experience{background-image: url(C:\web\project\complete-web-development-bangla-resources\developer-portfolio/exp-bg.png);}
+#side-bordar{
+    border-left: 10px solid;
+    border-image:linear-gradient (lightsalmon tomato)
+    border-image-slice 1;
+}
+#baby{border-left:10px solid;
+    border-image: linear-gradient(lightsalmon,tomato)
+    border-image-slice 1;
+
+
+}
+footer p{text-align: center;}
